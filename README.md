@@ -16,3 +16,10 @@ A partir dessas demandas, temos uma aplicação onde a pessoa usuária pode:
 * Interagir com os produtos buscados de modo a adicioná-los e removê-los de um carrinho de compras em diferentes quantidades;
 * Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações;
 * E por fim, finalizar a compra (simulada) dos itens selecionados.
+
+## Integrantes do Grupo
+
+* [Alef](https://github.com/Al3f-Mur1ck)
+* [Bruno](https://github.com/vanriwerson)
+* [Lis](https://github.com/lisvs10)
+* [Rafael](https://github.com/Rmartins858)
