@@ -23,3 +23,7 @@ A partir dessas demandas, temos uma aplicação onde a pessoa usuária pode:
 * [Bruno](https://github.com/vanriwerson)
 * [Lis](https://github.com/lisvs10)
 * [Rafael](https://github.com/Rmartins858)
+
+## Deploy
+
+[Online-Store](https://online-store-project.surge.sh/)
