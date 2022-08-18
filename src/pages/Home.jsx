@@ -108,7 +108,6 @@ class Home extends React.Component {
               {' '}
             </button>
           </div>
-          <h5 className="fill">Lorem ipsum dolor sit amet, consectetur adipiscing.</h5>
           <section className="cart-icon">
             <Link to="/shopping-cart" data-testid="shopping-cart-button">
               Carrinho:

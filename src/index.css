@@ -150,10 +150,10 @@ li {
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   display: flex;
   flex-flow: column;
-  justify-content:end;
   margin: 5px;
-  max-width: 200px;
+  max-width: 300px;
   padding: 10px;
+  align-items: center;
 }
 
 .products-map img {
@@ -165,6 +165,7 @@ li {
 
 .product-card-text {
   margin: auto;
+  text-align: center;
 }
 
 .rates button, .products-map button, .productDetails button, a  {
